@@ -1,0 +1,24 @@
+{
+  "name": "@wffranco/eslint-config",
+  "version": "1.0.0",
+  "description": "Eslint recommended rules",
+  "author": "Willem Franco",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests --recursive"
+  },
+  "devDependencies": {
+    "mocha": "^7.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wffranco/eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "recommended",
+    "rules"
+  ],
+  "license": "ISC"
+}

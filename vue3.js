@@ -1,3 +1,5 @@
+const { INLINE_ELEMENTS } = require('./utils');
+
 module.exports = {
   rules: {
     'vue/attribute-hyphenation': ['error', 'always'],

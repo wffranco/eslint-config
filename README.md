@@ -13,7 +13,7 @@ $ npm i eslint --save-dev
 Next, install `eslint-config`:
 
 ```
-$ npm install eslint-config --save-dev
+$ npm install @wffranco/eslint-config --save-dev
 ```
 
 
